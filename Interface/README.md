@@ -1,0 +1,4 @@
+Dependencies:
+
+-tkinter
+-pandas

@@ -1,0 +1,4 @@
+https://universe.roboflow.com/abc-d9ezq/package-v2/dataset/5#
+
+https://drive.google.com/drive/folders/1CQsvIRFAjWC7wYulnIi3_8MHQztEOW8x?usp=sharing 
+we always take best.pt from runs/detect/train/weights/best.pt
